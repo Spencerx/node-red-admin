@@ -1,3 +1,7 @@
+### 4.1.4
+
+ - Pin all dependencies to explicit version
+
 ### 4.1.3
 
  - Update axios dependency (fixes GHSA-43fc-jf86-j433) (#55) @hlovdal
