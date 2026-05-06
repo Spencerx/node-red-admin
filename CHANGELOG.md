@@ -1,3 +1,7 @@
+### 4.1.6
+
+ - Update acios dependency
+
 ### 4.1.5
 
  - Update axios dependency (fixes GHSA-3p68-rc4w-qgx5) (#58) @hlovdal
